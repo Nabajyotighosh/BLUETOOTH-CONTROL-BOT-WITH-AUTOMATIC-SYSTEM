@@ -39,7 +39,7 @@
    
    ![ci](/photo/final_auto.JPG)
  
- **PROJECT FILE**:-[LINK](
+ **PROJECT FILE**:-[LINK](https://github.com/Nabajyotighosh/BLUETOOTH-CONTROL-BOT-WITH-AUTOMATIC-SYSTEM-USING-ARDUINO-AND-ULTRASONIC-SENSOR)
  
  **PROJECT VIDEO**:-
  
