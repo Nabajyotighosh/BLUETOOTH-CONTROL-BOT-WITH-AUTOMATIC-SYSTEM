@@ -43,5 +43,5 @@
  
  **PROJECT FILE**:-[LINK](https://github.com/Nabajyotighosh/BLUETOOTH-CONTROL-BOT-WITH-AUTOMATIC-SYSTEM)
  
- **PROJECT VIDEO**:-
+ **PROJECT VIDEO**:-[Video](https://youtu.be/9wjh_N4adiE)
  
