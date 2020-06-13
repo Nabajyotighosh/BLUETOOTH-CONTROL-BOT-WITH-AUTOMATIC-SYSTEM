@@ -26,17 +26,20 @@
    
    ![br](/photo/28.jpg)
    
- <h3>FUNCTION PREVIEW</h3>
+<h3>FUNCTION PREVIEW</h3>
    ->>*The bot is totaly controlled by mobile app .when user press the key of the app then
        it send signal to the arduino and arduino does work according to command .In automatic mode
        the arduino control the bot taking data from ultrasonic sensor moving servo motor.*
        
-  <h3>CIRCUIT DIAGRAM</h3>
+<h3>CIRCUIT DIAGRAM</h3>
     ->>*The circuit diagram is given below only the HC-05 is not available .The rx pin of Hc-05 will be
-    connected to arduino Tx pin and Tx pin will be connected to the Rx pin of the arduino.And Vcc will be connected to 5 v and 
-    Ground pin will be connected to Ground of the arduino.*
+    connected to arduino Tx pin and Tx pin will be connected to the Rx pin of the arduino.And Vcc will be connected to
+    5 v and Ground pin will be connected to Ground of the arduino.*
     
    
-   ![ci](/photo/final_circuit.jpg)
-   
+   ![ci](/photo/final_auto.JPG)
+ 
+ **PROJECT FILE**:-[LINK](
+ 
+ **PROJECT VIDEO**:-
  
