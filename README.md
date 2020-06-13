@@ -1,6 +1,6 @@
 <h1>WELCOME TO NABAJYOTI'S GITHUB PAGE</h1>
 
-<h2>PROJECT DESCRIPTION</h1>
+<h2>PROJECT DESCRIPTION</h2>
 
 ->>*In this project we have made a bot which can be controlled by
     mobile app through HC-05 bluetooth module connected to arduino
