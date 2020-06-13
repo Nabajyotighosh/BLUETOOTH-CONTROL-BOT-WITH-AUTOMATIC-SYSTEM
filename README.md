@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+<h1>WELCOME TO NABAJYOTI'S GITHUB PAGE</h1>
 
-You can use the [editor on GitHub](https://github.com/Nabajyotighosh/BLUETOOTH-CONTROL-BOT-WITH-AUTOMATIC-SYSTEM-USING-ARDUINO-AND-ULTRASONIC-SENSOR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h2>PROJECT DESCRIPTION</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+->>*In this project we have made a bot which can be controlled by
+    mobile app through HC-05 bluetooth module connected to arduino
+    the brain of the bot.There is a special feature that the bot can run
+    automatically with the help of ultrasonic sensor and servo motor in automatic mode.*
+  
+<h3>COMPONENTS USED IN THE PROJECT</h3>
+  
+  ->>
+   1.ARDUINO:-
+    
+   ![ard](/photo/23.JPG)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nabajyotighosh/BLUETOOTH-CONTROL-BOT-WITH-AUTOMATIC-SYSTEM-USING-ARDUINO-AND-ULTRASONIC-SENSOR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   2.SERVO MOTOR:-
+   
+   ![se](/photo/25.jpg)
+   
+   3.ULTRASONIC SENSOR:-
+   
+   ![ur](/photo/29.JPG)
+   
+   4.BLUETOOTH MODULE:-
+   
+   ![br](/photo/28.jpg)
+   
+ <h3>FUNCTION PREVIEW</h3>
+   ->>*The bot is totaly controlled by mobile app .when user press the key of the app then
+       it send signal to the arduino and arduino does work according to command .In automatic mode
+       the arduino control the bot taking data from ultrasonic sensor moving servo motor.*
+       
+  <h3>CIRCUIT DIAGRAM</h3>
+    ->>*The circuit diagram is given below only the HC-05 is not available .The rx pin of Hc-05 will be
+    connected to arduino Tx pin and Tx pin will be connected to the Rx pin of the arduino.And Vcc will be connected to 5 v and 
+    Ground pin will be connected to Ground of the arduino.*
+    
+   
+   ![ci](/photo/final_circuit.jpg)
+   
+ 
