@@ -41,7 +41,7 @@
    
    ![ci](/photo/final_auto.JPG)
  
- **PROJECT FILE**:-[LINK(https://github.com/Nabajyotighosh/BLUETOOTH-CONTROL-BOT-WITH-AUTOMATIC-SYSTEM)
+ **PROJECT FILE**:-[LINK](https://github.com/Nabajyotighosh/BLUETOOTH-CONTROL-BOT-WITH-AUTOMATIC-SYSTEM)
  
  **PROJECT VIDEO**:-
  
